@@ -1,0 +1,30 @@
+{
+  "name": "google-charts-offload",
+  "version": "1.0.0",
+  "description": "Offload the import of Google Charts library dynamically into your node project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoine-Mace/google-charts-offload.git"
+  },
+  "keywords": [
+    "charts",
+    "google-charts",
+    "loader"
+  ],
+  "author": "Antoine Mace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antoine-Mace/google-charts-offload/issues"
+  },
+  "homepage": "https://github.com/Antoine-Mace/google-charts-offload#readme",
+  "dependencies": {
+    "simple-load-script": "^1.0.2"
+  }
+}
