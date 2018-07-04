@@ -1,3 +1,4 @@
+[![Download](https://img.shields.io/npm/dt/google-charts-offload.svg)](https://www.npmjs.com/package/google-charts-offload)
 # Google Charts Offload
 Offload the import of Google Charts library dynamically into your node project.
 
